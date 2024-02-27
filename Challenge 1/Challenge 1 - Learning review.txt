@@ -3,7 +3,10 @@ Challenge 1 Learning review:
 Before doing this, I had absolutely no idea how to use matplotlib, and very little about using numpy; now I feel that I know the basics, which will help in the next challenges. I could not manage to do the "extensions"
 due to their difficult nature, although I did attempt them: I tried to use the scatter function for the butterfly curve at the same time as a colour map, which did successfully make a bunch of rainbow markers in the
 correct shape, but I fell short when trying to make a rainbow line connecting them; and, looking at the solution, I don't think I would have come across the correct way to do it either, so I'm glad I knew where to
-quit.
+stop and move on.
+That said, however, I did still want to make the rainbow butterfly curve under my own skill; and I am much more familiar with the "Turtle" library of python. So I used this library to do a drawing of the butterfly curve
+on a canvas instead of on a graphical plot. Doing this also allowed me to animate the drawing of the curve and add the rainbow line that the extension challenged me to do. I'm aware that this is not what the challenge
+initially asked me to do (in terms of what library I used for this bit), but I believe that doing this shows my ability to think outside of the box in order to find multiple ways of solving a problem.
 
 Doing this first challenge has also allowed some useful insight into how Oxford university likes to issue tasks and problems to their students; the details of what needs to be done are listed, and the resources which
 will be needed are given, but there is no form of hand-hold-like method at all, with all the figuring out of how to use the libraries and researching the mathematical equations needing to be done by me. I was skeptical
